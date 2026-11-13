@@ -6,7 +6,7 @@
 
 do you really think your fat, lazy city dog would take the short walk by foot to buy his cigarettes by choice, instead of taking his car? just to save the lives of thousands mothers and children who had to die for your fucking gas?
 
-<p><b></b>are you serious?</b></p>
+<p><b>are you serious?</b></p>
 
 <p><I><b></I>your pet is a ticking bomb, man.</b></I></p>
 
