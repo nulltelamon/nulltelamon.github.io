@@ -2,10 +2,6 @@
 
 # nulltelamon.github.io
 
-body {
-color: red;
-}
-
 <body>
   
 <h2>hello, this is a test site. be nice please.</h2>
