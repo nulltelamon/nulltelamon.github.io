@@ -10,6 +10,6 @@
 
 <p><b>are you serious?</b></p>
 
-<p><I><b></I>your pet is a ticking bomb, man.</b></I></p>
+<p><I><b>your pet is a ticking bomb, man.</b></I></p>
 
 </body>
